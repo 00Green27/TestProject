@@ -1,0 +1,164 @@
+D:\ForWork\C#\TestProject\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\ApplicationInsights.config
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\csc.exe
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\vbc.exe
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\TestProject.dll.config
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\TestProject.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\TestProject.pdb
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.Web.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.ApplicationInsights.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Newtonsoft.Json.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\System.Net.Http.Formatting.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\System.Web.Http.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\System.Web.Http.WebHost.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.Web.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.ApplicationInsights.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\Newtonsoft.Json.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\System.Net.Http.Formatting.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\System.Web.Http.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\bin\System.Web.Http.WebHost.xml
+D:\ForWork\C#\TestProject\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\ForWork\C#\TestProject\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\ApplicationInsights.config
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\csc.exe
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\vbc.exe
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\TestProject.dll.config
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\TestProject.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\TestProject.pdb
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.Web.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.ApplicationInsights.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Newtonsoft.Json.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\System.Net.Http.Formatting.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.WebHost.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.Web.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.ApplicationInsights.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\Newtonsoft.Json.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\System.Net.Http.Formatting.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.WebHost.xml
+D:\table\С#\TestProject C#\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\table\С#\TestProject C#\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\table\С#\TestProject C#\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\ApplicationInsights.config
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\csc.exe
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\vbc.exe
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\TestProject.dll.config
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\TestProject.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\TestProject.pdb
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.Web.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.ApplicationInsights.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Newtonsoft.Json.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\System.Net.Http.Formatting.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.WebHost.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.Web.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.ApplicationInsights.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\Newtonsoft.Json.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\System.Net.Http.Formatting.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\bin\System.Web.Http.WebHost.xml
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\ForWork\C#\TestProject C#\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\ForWork\Done\C#\TestProject\TestProject\bin\ApplicationInsights.config
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\csc.exe
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\vbc.exe
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+D:\ForWork\Done\C#\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+D:\ForWork\Done\C#\TestProject\TestProject\bin\TestProject.dll.config
+D:\ForWork\Done\C#\TestProject\TestProject\bin\TestProject.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\TestProject.pdb
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.Web.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.ApplicationInsights.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Newtonsoft.Json.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\System.Net.Http.Formatting.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\System.Web.Http.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\System.Web.Http.WebHost.dll
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.Web.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.AI.WindowsServer.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.ApplicationInsights.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\Newtonsoft.Json.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\System.Net.Http.Formatting.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\System.Web.Http.xml
+D:\ForWork\Done\C#\TestProject\TestProject\bin\System.Web.Http.WebHost.xml
+D:\ForWork\Done\C#\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\ForWork\Done\C#\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\ForWork\Done\C#\TestProject\TestProject\obj\Debug\TestProject.pdb
