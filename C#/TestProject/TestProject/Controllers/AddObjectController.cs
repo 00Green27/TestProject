@@ -4,6 +4,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Net;
 using System.Net.Http;
+using System.Web.Configuration;
 using System.Web.Http;
 using TestProject.Models;
 
@@ -15,9 +16,7 @@ namespace TestProject.Controllers
         [ActionName("InsertObject")]
         public int Post([FromBody]NewObject newobject)
         {
-            SqlDataReader reader = null;
-            SqlConnection myConnection = new SqlConnection();
-            myConnection.ConnectionString = @"Data Source=DNS;Initial Catalog=TestProject;Integrated Security=true;";
+            SqlConnection myConnection = new SqlConnection(WebConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString);
 
             SqlCommand ObjectsqlCmd = new SqlCommand();
             ObjectsqlCmd.CommandType = CommandType.StoredProcedure;
@@ -28,10 +27,9 @@ namespace TestProject.Controllers
             SqlParameter outputParam = ObjectsqlCmd.Parameters.Add("@ObjectId", SqlDbType.Int);
             outputParam.Direction = ParameterDirection.Output;
             ObjectsqlCmd.Connection = myConnection;
-
             myConnection.Open();
-            reader = ObjectsqlCmd.ExecuteReader();
-            reader.Close();
+            using (SqlDataReader reader = ObjectsqlCmd.ExecuteReader()) {}
+            
             int ObjectId = Convert.ToInt32(outputParam.Value);
 
             foreach(NewAttribute ObjAttr in newobject.Attributes)

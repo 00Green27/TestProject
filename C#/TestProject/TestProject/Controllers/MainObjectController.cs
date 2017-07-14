@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Web.Configuration;
 using System.Web.Http;
 using TestProject.Models;
 
@@ -13,9 +14,7 @@ namespace TestProject.Controllers
         [ActionName("GetObjectAttributes")]
         public MainObject Get(int id)
         {
-            SqlDataReader reader = null;
-            SqlConnection myConnection = new SqlConnection();
-            myConnection.ConnectionString = @"Data Source=DNS;Initial Catalog=TestProject;Integrated Security=true;";
+            SqlConnection myConnection = new SqlConnection(WebConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString);
 
             SqlCommand sqlCmd = new SqlCommand();
             sqlCmd.CommandType = CommandType.StoredProcedure;
@@ -23,20 +22,21 @@ namespace TestProject.Controllers
             sqlCmd.Parameters.Add(new SqlParameter("@objects_id", id));
             sqlCmd.Connection = myConnection;
             myConnection.Open();
-            reader = sqlCmd.ExecuteReader();
 
             MainObject MObject = new MainObject();
             List<ObjectAttribute> attributes = new List<ObjectAttribute>();
-            ObjectAttribute ObjAtr = null;
 
             MObject.Id = id;
-            
-            while (reader.Read())
+
+            using (SqlDataReader reader = sqlCmd.ExecuteReader())
             {
-                ObjAtr = new ObjectAttribute();
-                ObjAtr.Name = reader.GetValue(0).ToString();
-                ObjAtr.Value = reader.GetValue(1).ToString();
-                attributes.Add(ObjAtr);
+                while (reader.Read())
+                {
+                    ObjectAttribute ObjAtr = new ObjectAttribute();
+                    ObjAtr.Name = reader.GetValue(0).ToString();
+                    ObjAtr.Value = reader.GetValue(1).ToString();
+                    attributes.Add(ObjAtr);
+                }
             }
             MObject.Attributes = attributes;
             myConnection.Close();
